@@ -391,20 +391,7 @@ margin:0;
 color: #941651;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.Style63{font-family: 'Optima-Regular','Optima','Arial',sans-serif;
-font-size: 24px; 
-font-weight:700; 
-color: #0096FF;
-text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.5);
-word-wrap: break-word;}
-.Style64{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
-font-size: 15px; 
-font-weight:700; 
-margin:0;
-color: #005392;
-text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.4);
-word-wrap: break-word;}
-.Style65{font-family: 'Optima-Italic','Optima','Arial',sans-serif;
+.Style63{font-family: 'Optima-Italic','Optima','Arial',sans-serif;
 font-size: 27px; 
 font-weight:700; 
 font-style: italic;
@@ -412,107 +399,114 @@ margin:0;
 color: #941651;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.5);
 word-wrap: break-word;}
-.Style66{font-family: 'Optima-Regular','Optima','Arial',sans-serif;
+.Style64{font-family: 'Optima-Regular','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:700; 
 color: #005392;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.5);
 word-wrap: break-word;}
-.Style67{font-family: 'Optima-Regular','Optima','Arial',sans-serif;
+.Style65{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+font-size: 15px; 
+font-weight:700; 
+margin:0;
+color: #005392;
+text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.4);
+word-wrap: break-word;}
+.Style66{font-family: 'Optima-Regular','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:700; 
 margin:0;
 color: #0432FF;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.5);
 word-wrap: break-word;}
-.Style68{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style67{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 17px; 
 font-weight:700; 
 margin:0;
 color: #FF2600;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.5);
 word-wrap: break-word;}
-.Style69{font-family: 'Pacifico-Regular','Pacifico';
+.Style68{font-family: 'Pacifico-Regular','Pacifico';
 font-size: 18px; 
 font-weight:700; 
 margin:0;
 color: #FF2600;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.5);
 word-wrap: break-word;}
-.Style70{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style69{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 17px; 
 font-weight:700; 
 color: #FF2600;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.5);
 word-wrap: break-word;}
-.Style71{font-family: 'ArialMT','Arial',sans-serif;
+.Style70{font-family: 'ArialMT','Arial',sans-serif;
 font-size: 14px; 
 font-weight:700; 
 margin:0;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.Style72{font-family: 'Optima-Regular','Optima','Arial',sans-serif;
+.Style71{font-family: 'Optima-Regular','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:700; 
 color: #0432FF;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.Style73{font-family: 'Optima-Regular','Optima','Arial',sans-serif;
+.Style72{font-family: 'Optima-Regular','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:700; 
 margin:0;
 color: #0432FF;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.Style74{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style73{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:700; 
 margin:0;
 color: #941651;
+text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.5);
+word-wrap: break-word;}
+.Style74{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+font-size: 24px; 
+font-weight:700; 
+color: #0432FF;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.5);
 word-wrap: break-word;}
 .Style75{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:700; 
-color: #0432FF;
-text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.5);
-word-wrap: break-word;}
-.Style76{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
-font-size: 24px; 
-font-weight:700; 
 margin:0;
 color: #0432FF;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.5);
 word-wrap: break-word;}
-.Style77{font-family: 'Optima-Regular','Optima','Arial',sans-serif;
+.Style76{font-family: 'Optima-Regular','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:700; 
 margin:0;
 color: #941651;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.5);
 word-wrap: break-word;}
-.Style78{font-family: 'ArialMT','Arial',sans-serif;
+.Style77{font-family: 'ArialMT','Arial',sans-serif;
 font-size: 13px; 
 font-weight:700; 
 margin:0;
 color: #0432FF;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.5);
 word-wrap: break-word;}
-.Style79{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style78{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:700; 
 margin:0;
 color: #011892;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.Style80{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style79{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 12px; 
 font-weight:700; 
 margin:0;
 color: #011892;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.Style81{font-family: 'Optima-BoldItalic','Optima','Arial',sans-serif;
+.Style80{font-family: 'Optima-BoldItalic','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:700; 
 font-style: italic;
@@ -520,34 +514,34 @@ margin:0;
 text-decoration: underline;
 color: #011892;
 word-wrap: break-word;}
-.Style82{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style81{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 22px; 
 font-weight:700; 
 margin:0;
 color: #005392;
 word-wrap: break-word;}
-.linkStyle_83{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.linkStyle_82{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 22px; 
 font-weight:700; 
 color: #0432FF;
 text-decoration: underline; 
 /*000#00F900#008F51#FF2600*/
 word-wrap: break-word;}
-a.linkStyle_83:visited{color:#008F51; text-decoration:underline;}
-a.linkStyle_83:hover{color:#FF2600; text-decoration:underline;}
-.Style86{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+a.linkStyle_82:visited{color:#008F51; text-decoration:underline;}
+a.linkStyle_82:hover{color:#FF2600; text-decoration:underline;}
+.Style85{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 22px; 
 font-weight:700; 
 color: #005392;
 word-wrap: break-word;}
-.Style87{font-family: 'Optima-ExtraBlack','Optima','Arial',sans-serif;
+.Style86{font-family: 'Optima-ExtraBlack','Optima','Arial',sans-serif;
 font-size: 36px; 
 font-weight:900; 
 margin:0;
 color: #011892;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.linkStyle_88{font-family: 'Optima-ExtraBlack','Optima','Arial',sans-serif;
+.linkStyle_87{font-family: 'Optima-ExtraBlack','Optima','Arial',sans-serif;
 font-size: 36px; 
 font-weight:900; 
 color: #0432FF;
@@ -555,50 +549,50 @@ text-decoration: underline;
 /*000#00F900#008F51#FF2600*/
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-a.linkStyle_88:visited{color:#008F51; text-decoration:underline;}
-a.linkStyle_88:hover{color:#FF2600; text-decoration:underline;}
-.Style91{font-family: 'Optima-ExtraBlack','Optima','Arial',sans-serif;
+a.linkStyle_87:visited{color:#008F51; text-decoration:underline;}
+a.linkStyle_87:hover{color:#FF2600; text-decoration:underline;}
+.Style90{font-family: 'Optima-ExtraBlack','Optima','Arial',sans-serif;
 font-size: 48px; 
 font-weight:900; 
 margin:0;
 color: #011892;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.Style92{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style91{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 20px; 
 font-weight:700; 
 margin:0;
 color: #011892;
 word-wrap: break-word;}
+.Style92{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+font-size: 20px; 
+font-weight:700; 
+color: #005392;
+word-wrap: break-word;}
 .Style93{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 20px; 
 font-weight:700; 
+margin:0;
 color: #005392;
 word-wrap: break-word;}
 .Style94{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 20px; 
 font-weight:700; 
-margin:0;
-color: #005392;
-word-wrap: break-word;}
-.Style95{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
-font-size: 20px; 
-font-weight:700; 
 color: #011892;
 word-wrap: break-word;}
-.Style96{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style95{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 36px; 
 font-weight:700; 
 margin:0;
 color: #011892;
 word-wrap: break-word;}
-.Style97{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style96{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 12px; 
 font-weight:700; 
 margin:0;
 color: #011892;
 word-wrap: break-word;}
-.Style98{font-family: 'Optima-BoldItalic','Optima','Arial',sans-serif;
+.Style97{font-family: 'Optima-BoldItalic','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:700; 
 font-style: italic;
@@ -606,24 +600,24 @@ margin:0;
 color: #521B92;
 text-shadow: 1.5000px 0.0000px 1.0px rgba(0,0,0,0.3);
 word-wrap: break-word;}
-.Style99{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style98{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:700; 
 margin:0;
 text-decoration: underline;
 color: #011892;
 word-wrap: break-word;}
-.Style100{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style99{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 18px; 
 font-weight:700; 
 color: #005392;
 word-wrap: break-word;}
-.Style101{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style100{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 18px; 
 font-weight:700; 
 color: #011892;
 word-wrap: break-word;}
-.Style102{font-family: 'Optima-BoldItalic','Optima','Arial',sans-serif;
+.Style101{font-family: 'Optima-BoldItalic','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:700; 
 font-style: italic;
@@ -631,101 +625,101 @@ margin:0;
 color: #521B92;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.Style103{font-family: 'MarkerFelt-Thin','Marker Felt';
+.Style102{font-family: 'MarkerFelt-Thin','Marker Felt';
 font-size: 24px; 
 font-weight:100; 
 margin:0;
 color: #FF2600;
 word-wrap: break-word;}
-.Style104{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style103{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:700; 
 margin:0;
 color: #005392;
 word-wrap: break-word;}
-.Style105{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style104{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 18px; 
 font-weight:700; 
 font-style: italic;
 color: #005392;
 word-wrap: break-word;}
-.Style106{font-family: 'Helvetica-Bold','Helvetica',sans-serif;
+.Style105{font-family: 'Helvetica-Bold','Helvetica',sans-serif;
 font-size: 21px; 
 font-weight:700; 
 margin:0;
 color: #011892;
 word-wrap: break-word;}
-.Style107{font-family: 'Helvetica-Bold','Helvetica',sans-serif;
+.Style106{font-family: 'Helvetica-Bold','Helvetica',sans-serif;
 font-size: 22px; 
 font-weight:700; 
 margin:0;
 text-decoration: underline;
 color: #011892;
 word-wrap: break-word;}
-.Style108{font-family: 'Helvetica-Bold','Helvetica',sans-serif;
+.Style107{font-family: 'Helvetica-Bold','Helvetica',sans-serif;
 font-size: 18px; 
 font-weight:700; 
 margin:0;
 color: #005392;
 word-wrap: break-word;}
-.Style109{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style108{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 22px; 
+font-weight:700; 
+margin:0;
+text-decoration: underline;
+color: #011892;
+word-wrap: break-word;}
+.Style109{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+font-size: 18px; 
 font-weight:700; 
 margin:0;
 text-decoration: underline;
 color: #011892;
 word-wrap: break-word;}
 .Style110{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
-font-size: 18px; 
-font-weight:700; 
-margin:0;
-text-decoration: underline;
-color: #011892;
-word-wrap: break-word;}
-.Style111{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 17px; 
 font-weight:700; 
 margin:0;
 color: #005392;
 word-wrap: break-word;}
-.Style112{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style111{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 16px; 
 font-weight:700; 
 margin:0;
 color: #521B92;
+text-shadow: 1.5000px 0.0000px 1.0px rgba(0,0,0,0.3);
+word-wrap: break-word;}
+.Style112{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+font-size: 16px; 
+font-weight:700; 
+color: #FF2600;
 text-shadow: 1.5000px 0.0000px 1.0px rgba(0,0,0,0.3);
 word-wrap: break-word;}
 .Style113{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 16px; 
 font-weight:700; 
-color: #FF2600;
-text-shadow: 1.5000px 0.0000px 1.0px rgba(0,0,0,0.3);
-word-wrap: break-word;}
-.Style114{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
-font-size: 16px; 
-font-weight:700; 
 color: #521B92;
 text-shadow: 1.5000px 0.0000px 1.0px rgba(0,0,0,0.3);
 word-wrap: break-word;}
-.Style115{font-family: 'Optima-ExtraBlack','Optima','Arial',sans-serif;
+.Style114{font-family: 'Optima-ExtraBlack','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:900; 
 margin:0;
 color: #011892;
 word-wrap: break-word;}
-.Style116{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style115{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 18px; 
 font-weight:700; 
 color: #FF2600;
 word-wrap: break-word;}
-.Style117{font-family: 'Optima-BoldItalic','Optima','Arial',sans-serif;
+.Style116{font-family: 'Optima-BoldItalic','Optima','Arial',sans-serif;
 font-size: 13px; 
 font-weight:700; 
 font-style: italic;
 margin:0;
 color: #FF2600;
 word-wrap: break-word;}
-.linkStyle_118{font-family: 'Optima-BoldItalic','Optima','Arial',sans-serif;
+.linkStyle_117{font-family: 'Optima-BoldItalic','Optima','Arial',sans-serif;
 font-size: 13px; 
 font-weight:700; 
 font-style: italic;
@@ -733,92 +727,92 @@ color: #0432FF;
 text-decoration: underline; 
 /*000#00F900#008F51#FF2600*/
 word-wrap: break-word;}
-a.linkStyle_118:visited{color:#008F51; text-decoration:underline;}
-a.linkStyle_118:hover{color:#FF2600; text-decoration:underline;}
-.Style121{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+a.linkStyle_117:visited{color:#008F51; text-decoration:underline;}
+a.linkStyle_117:hover{color:#FF2600; text-decoration:underline;}
+.Style120{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 16px; 
 font-weight:700; 
 margin:0;
 text-decoration: underline;
 color: #005392;
 word-wrap: break-word;}
-.Style122{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style121{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 16px; 
 font-weight:700; 
 margin:0;
 color: #005392;
 word-wrap: break-word;}
-.Style123{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style122{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 22px; 
 font-weight:700; 
 margin:0;
 color: #011892;
 word-wrap: break-word;}
-.Style124{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style123{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 22px; 
 font-weight:700; 
 color: #FF2600;
 word-wrap: break-word;}
-.Style125{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style124{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 22px; 
 font-weight:700; 
 color: #011892;
 word-wrap: break-word;}
-.Style126{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style125{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:700; 
 margin:0;
 text-decoration: underline;
 color: #005392;
 word-wrap: break-word;}
-.Style127{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style126{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 16px; 
 font-weight:700; 
 margin:0;
 text-decoration: underline;
 color: #011892;
 word-wrap: break-word;}
-.Style128{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style127{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 22px; 
 font-weight:700; 
 margin:0;
 color: #005392;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.Style129{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style128{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 22px; 
 font-weight:700; 
 color: #FF2600;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.Style130{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style129{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 22px; 
 font-weight:700; 
 color: #005392;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.Style131{font-family: 'Optima-ExtraBlack','Optima','Arial',sans-serif;
+.Style130{font-family: 'Optima-ExtraBlack','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:900; 
 margin:0;
 color: #011892;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.Style132{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
+.Style131{font-family: 'Optima-Bold','Optima','Arial',sans-serif;
 font-size: 36px; 
 font-weight:700; 
 margin:0;
 color: #011892;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.5);
 word-wrap: break-word;}
-.Style133{font-family: 'Optima-ExtraBlack','Optima','Arial',sans-serif;
+.Style132{font-family: 'Optima-ExtraBlack','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:900; 
 margin:0;
 color: #005392;
 text-shadow: 1.5000px 0.0000px 1.5px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.Style134{font-family: 'Optima-BoldItalic','Optima','Arial',sans-serif;
+.Style133{font-family: 'Optima-BoldItalic','Optima','Arial',sans-serif;
 font-size: 22px; 
 font-weight:700; 
 font-style: italic;
@@ -826,34 +820,34 @@ margin:0;
 color: #FF2600;
 text-shadow: 1.5000px 0.0000px 1.0px rgba(0,0,0,0.3);
 word-wrap: break-word;}
-.Style135{font-family: 'Optima-ExtraBlack','Optima','Arial',sans-serif;
+.Style134{font-family: 'Optima-ExtraBlack','Optima','Arial',sans-serif;
 font-size: 30px; 
 font-weight:900; 
 margin:0;
 color: #011892;
 text-shadow: 1.0000px 0.0000px 1.0px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.Style136{font-family: 'Pacifico-Regular','Pacifico';
+.Style135{font-family: 'Pacifico-Regular','Pacifico';
 font-size: 24px; 
 font-weight:700; 
 margin:0;
 color: #FEFB00;
 text-shadow: 1.0000px 0.0000px 1.0px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.Style137{font-family: 'Optima-BoldItalic','Optima','Arial',sans-serif;
+.Style136{font-family: 'Optima-BoldItalic','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:700; 
 font-style: italic;
 color: #005392;
 text-shadow: 1.0000px 0.0000px 1.0px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.Style138{font-family: 'Pacifico-Regular','Pacifico';
+.Style137{font-family: 'Pacifico-Regular','Pacifico';
 font-size: 24px; 
 font-weight:700; 
 color: #FEFB00;
 text-shadow: 1.0000px 0.0000px 1.0px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.Style139{font-family: 'Optima-BoldItalic','Optima','Arial',sans-serif;
+.Style138{font-family: 'Optima-BoldItalic','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:700; 
 font-style: italic;
@@ -861,14 +855,14 @@ margin:0;
 color: #005392;
 text-shadow: 1.0000px 0.0000px 1.0px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.Style140{font-family: 'Pacifico-Regular','Pacifico';
+.Style139{font-family: 'Pacifico-Regular','Pacifico';
 font-size: 24px; 
 font-weight:700; 
 font-style: normal;
 color: #FEFB00;
 text-shadow: 1.0000px 0.0000px 1.0px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-.linkStyle_141{font-family: 'Optima-BoldItalic','Optima','Arial',sans-serif;
+.linkStyle_140{font-family: 'Optima-BoldItalic','Optima','Arial',sans-serif;
 font-size: 24px; 
 font-weight:700; 
 font-style: italic;
@@ -877,8 +871,8 @@ text-decoration: underline;
 /*000#00F900#008F51#FF2600*/
 text-shadow: 1.0000px 0.0000px 1.0px rgba(0,0,0,0.4);
 word-wrap: break-word;}
-a.linkStyle_141:visited{color:#008F51; text-decoration:underline;}
-a.linkStyle_141:hover{color:#FF2600; text-decoration:underline;}
+a.linkStyle_140:visited{color:#008F51; text-decoration:underline;}
+a.linkStyle_140:hover{color:#FF2600; text-decoration:underline;}
 body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale}
 .animhidden{opacity: 0}
 .animvisible{opacity: 1}
